@@ -12,8 +12,8 @@ As always, if you have any questions, comments, or concerns leave a comment in t
 | 2022 Oct 18  | Intro to HTML + CSS                                                     | Completed |
 | 2022 Oct 25  | Intro to JavaScript                                                     | Completed |
 | 2022 Nov 1   | Intro to JavaScript, pt. 2                                              | Completed |
-| 2022 Nov 8   | Intro to React                                                          | Planned   |
-| 2022 Nov 15  | Intro to React (States and Hooks)                                       | Planned   |
+| 2022 Nov 8   | Intro to React                                                          | Completed |
+| 2022 Nov 15  | Intro to React (States and Hooks)                                       | Completed |
 | 2022 Nov 22  | Intro to React (Hooks cont, Data Fetching)                              | Planned   |
 | 2022 Nov 29  | Intro to Next.js                                                        | Planned   |
 | 2022 Dec 6   | Intro to Tailwind CSS & Web Development Competition                     | Planned   |
