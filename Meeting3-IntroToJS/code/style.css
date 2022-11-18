@@ -1,0 +1,44 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+}
+h1 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 2%;
+}
+.add {
+  padding: 3%;
+  background-color: #c387ff;
+  color: white;
+  margin: 2%;
+  border: 2px solid white;
+  border-radius: 10%;
+}
+
+.subtract {
+  padding: 3%;
+  background-color: #8fb1c7;
+  color: white;
+  margin: 2%;
+  border: 2px solid white;
+  border-radius: 10%;
+}
+.multiply {
+  padding: 3%;
+  background-color: #a9c0a0;
+  border: 2px solid white;
+  color: white;
+  margin: 2%;
+  border-radius: 10%;
+}
+.divide {
+  padding: 3%;
+  background-color: #c3bb92;
+  border: 2px solid white;
+  color: white;
+  margin: 2%;
+  border-radius: 10%;
+}

@@ -1,0 +1,30 @@
+main {
+  text-align: center;
+  vertical-align: center;
+}
+
+img {
+  height: 400px;
+  width: 300px;
+  object-fit: cover;
+  object-position: left;
+  bottom: 15%;
+  position: absolute;
+  -webkit-animation: linear infinite;
+  -webkit-animation-name: run;
+  -webkit-animation-duration: 5s;
+}
+
+@-webkit-keyframes run {
+  0% {
+    left: 0;
+    top: 0;
+  }
+  50% {
+    left: calc(100% - 300px);
+    top: calc(100% - 400px);
+  }
+  100% {
+    top: 0;
+  }
+}

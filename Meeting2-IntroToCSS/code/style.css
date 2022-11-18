@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&family=Montserrat:wght@800&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Inter', sans-serif;
+}
+
+nav {
+  width: 100%;
+  padding: 1% 0 2%;
+}
+nav a {
+  text-decoration: none;
+}
+nav li {
+  list-style: none;
+  display: inline;
+  font-size: 1.5rem;
+  padding: 3%;
+}
+
+nav img {
+  position: absolute;
+  right: 0;
+  width: 40px;
+  height: 40px;
+  padding: 0 2%;
+}
+
+.burger-img {
+  width: 100%;
+  height: 100vh;
+  filter: brightness(30%);
+}
+
+.home-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+  padding: 5% 0;
+}
+
+.home-text h1 {
+  font-size: 5em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* About css */
+.about {
+  display: flex;
+  align-items: center;
+  padding: 8% 9%;
+}
+
+.about-img {
+  width: 50%;
+  box-shadow: 0 0 20px #8c8c8c;
+}
+
+.about-text {
+  width: 400px;
+  padding: 5%;
+  font-size: 1rem;
+}
+.about-text h1 {
+  font-family: 'Montserrat', sans-serif;
+  padding: 5%;
+}
+
+/* button */
+
+button {
+  font-family: 'Montserrat', sans-serif;
+  width: 20vw;
+  height: 10vh;
+  font-size: 2rem;
+  margin: 3%;
+  background-color: black;
+  color: white;
+  border: solid 1px white;
+  border-radius: 10px;
+}
+button:hover {
+  background-color: white;
+  color: black;
+}
+
+/* end css */
+.end {
+  background-color: black;
+  width: vw;
+  color: white;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  padding: 5%;
+}
+
+/* footer */
+.footer {
+  text-align: center;
+  padding: 2%;
+}
