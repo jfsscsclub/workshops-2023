@@ -9,12 +9,12 @@ As always, if you have any questions, comments, or concerns leave a comment in t
 | Date        | Content                                             | Status    |
 | ----------- | --------------------------------------------------- | --------- |
 | 2022 Oct 4  | Info meeting                                        | Completed |
-| 2022 Oct 11 | [Intro to HTML](Meeting1-IntroToHTML/)              | Completed |
-| 2022 Oct 18 | [Intro to HTML + CSS](Meeting2-IntroToCSS/)         | Completed |
-| 2022 Oct 25 | [Intro to JavaScript](Meeting3-IntroToJS/)          | Completed |
-| 2022 Nov 1  | [Intro to JavaScript, pt. 2](Meeting4-JS-Pt2/)      | Completed |
-| 2022 Nov 8  | [Intro to React](Meeting5-IntroToReact/)            | Completed |
-| 2022 Nov 15 | [Intro to React (State)](Meeting6-React-State/)     | Completed |
+| 2022 Oct 11 | [Intro to HTML](/Meeting1-IntroToHTML/)              | Completed |
+| 2022 Oct 18 | [Intro to HTML + CSS](/Meeting2-IntroToCSS/)         | Completed |
+| 2022 Oct 25 | [Intro to JavaScript](/Meeting3-IntroToJS/)          | Completed |
+| 2022 Nov 1  | [Intro to JavaScript, pt. 2](/Meeting4-JS-Pt2/)      | Completed |
+| 2022 Nov 8  | [Intro to React](/Meeting5-IntroToReact/)            | Completed |
+| 2022 Nov 15 | [Intro to React (State)](/Meeting6-React-State/)     | Completed |
 | 2022 Nov 22 | Intro to React (Hooks & Data Fetching)              | Planned   |
 | 2022 Nov 29 | Intro to Next.js                                    | Planned   |
 | 2022 Dec 6  | Intro to Tailwind CSS & Web Development Competition | Planned   |
