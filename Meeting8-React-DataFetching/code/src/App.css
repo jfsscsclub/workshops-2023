@@ -1,0 +1,36 @@
+body {
+  background-color: #CCCCCC;
+}
+
+h1 {
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 24px;
+}
+
+.card {
+  box-shadow: 5px 10px #88888855;
+  background-color: white;
+  padding: 0.5rem 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.card h1,p {
+  text-align: center;
+  margin: 0 0 5px 0;
+}
+
+
