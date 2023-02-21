@@ -19,13 +19,13 @@ As always, if you have any questions, comments, or concerns leave a comment in t
 | 2022 Nov 29 | [Intro to React (Data Fetching) & Git/GitHub](/Meeting8-React-DataFetching/)                | Completed |
 | 2022 Dec 6  | [Intro to Tailwind CSS & Web Development Competition](/Meeting9-IntroToTailwindCSS/)        | Completed |
 | 2022 Dec 13 | Web Development Competition (Week 2)                                                        | Completed |
-| 2022 Dec 20 | Fraser Graduate Panel                                                                       | Planned   |
+| 2022 Dec 20 | Fraser Graduate Panel                                                                       | Completed |
 | 2023 Jan 10 | No meeting (Club moratorium)                                                                | N/A       |
 | 2023 Jan 17 | No meeting (Club moratorium)                                                                | N/A       |
 | 2023 Jan 24 | No meeting (Club moratorium)                                                                | N/A       |
 | 2023 Jan 31 | No meeting (Club moratorium)                                                                | N/A       |
-| 2023 Feb 7  | No meeting (Club moratorium)                                                                | N/A       |
-| 2023 Feb 14 | Mock CCC?                                                                                   | Planned   |
+| 2023 Feb 7  | Intro to CCC and Competitive Programming                                                    | Completed |
+| 2023 Feb 14 | Mock CCC                                                                                    | Completed |
 | 2023 Feb 21 | CCC Takeup                                                                                  | Planned   |
 | 2023 Feb 28 | Intro to AI                                                                                 | Planned   |
 | 2023 Mar 7  | Intro to AI: Linear Regression                                                              | Planned   |
