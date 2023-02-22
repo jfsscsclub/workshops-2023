@@ -24,9 +24,9 @@ As always, if you have any questions, comments, or concerns leave a comment in t
 | 2023 Jan 17 | No meeting (Club moratorium)                                                                | N/A       |
 | 2023 Jan 24 | No meeting (Club moratorium)                                                                | N/A       |
 | 2023 Jan 31 | No meeting (Club moratorium)                                                                | N/A       |
-| 2023 Feb 7  | Intro to CCC and Competitive Programming                                                    | Completed |
+| 2023 Feb 7  | [Intro to CCC and Competitive Programming](/Meeting12-IntroToCCC/)                          | Completed |
 | 2023 Feb 14 | Mock CCC                                                                                    | Completed |
-| 2023 Feb 21 | CCC Takeup                                                                                  | Planned   |
+| 2023 Feb 21 | [CCC Takeup](/Meeting13-CCCTakeup/)                                                         | Completed |
 | 2023 Feb 28 | Intro to AI                                                                                 | Planned   |
 | 2023 Mar 7  | Intro to AI: Linear Regression                                                              | Planned   |
 | 2023 Mar 14 | Intro to AI: Classification and NLP                                                         | Planned   |
